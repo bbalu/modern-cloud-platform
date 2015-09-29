@@ -8,6 +8,9 @@ book on modern cloud native platform - for your scalable, reliable, distributed 
 
 ![](https://d1fto35gcfffzn.cloudfront.net/images/campaigns/cloudnative/Cloud-Native-Architecture-Diagram.png)
 
+Docker Swarm architecture
+![](http://image.slidesharecdn.com/dockerswarmv1-150401123157-conversion-gate01/95/docker-swarm-introduction-13-638.jpg?cb=1427891574)
+
 Further reading
 
 * [What makes a cluster a cluster ? by CoreOS](https://coreos.com/blog/cluster-osi-model/)
