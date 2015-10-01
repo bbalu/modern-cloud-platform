@@ -24,7 +24,7 @@ source: youtube: microsoft iot architecture
 
 ![](http://ssmlwf.azurewebsites.net/AzureProcess3.png)
 
-source:[](http://www.codeproject.com/Articles/890430/Microsoft-Azure-plus-TI-CC-LaunchPad-End-to-End-Io)
+source: [](http://www.codeproject.com/Articles/890430/Microsoft-Azure-plus-TI-CC-LaunchPad-End-to-End-Io)
 
 
 Further reading
