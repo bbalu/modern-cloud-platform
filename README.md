@@ -25,6 +25,9 @@ source: youtube: microsoft iot architecture
 ![](http://ssmlwf.azurewebsites.net/AzureProcess3.png)
 source: [](http://www.codeproject.com/Articles/890430/Microsoft-Azure-plus-TI-CC-LaunchPad-End-to-End-Io)
 
+![](http://image.slidesharecdn.com/nosqlmattersbcn2014-141125014931-conversion-gate01/95/salvatore-sanfilippo-how-redis-cluster-works-and-why-nosql-matters-barcelona-2014-9-638.jpg?cb=1416880265)
+
+
 Further reading
 
 * [What makes a cluster a cluster ? by CoreOS](https://coreos.com/blog/cluster-osi-model/)
