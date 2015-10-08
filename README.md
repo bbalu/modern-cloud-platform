@@ -32,3 +32,4 @@ Further reading
 
 * [What makes a cluster a cluster ? by CoreOS](https://coreos.com/blog/cluster-osi-model/)
 * [Anatomy of modern productivity stack by Joe Beda - 80% ](http://www.eightypercent.net/post/layers-in-the-stack.html)
+* [Post Amazon challenge from newstack.io](http://thenewstack.io/post-amazon-challenge-new-stack-model/)
