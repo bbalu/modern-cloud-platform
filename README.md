@@ -27,6 +27,7 @@ source: [](http://www.codeproject.com/Articles/890430/Microsoft-Azure-plus-TI-CC
 
 ![](http://image.slidesharecdn.com/nosqlmattersbcn2014-141125014931-conversion-gate01/95/salvatore-sanfilippo-how-redis-cluster-works-and-why-nosql-matters-barcelona-2014-9-638.jpg?cb=1416880265)
 
+![](http://www.packer.io/assets/images/docs/atlas-workflow-89f2c5ca.png)
 
 Further reading
 
