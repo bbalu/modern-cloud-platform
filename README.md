@@ -29,6 +29,13 @@ source: [](http://www.codeproject.com/Articles/890430/Microsoft-Azure-plus-TI-CC
 
 ![](http://www.packer.io/assets/images/docs/atlas-workflow-89f2c5ca.png)
 
+Nomad Scheduler and Otto Application Delivery Tool
+
+Nomad internals
+
+!(https://www.nomadproject.io/assets/images/nomad-architecture-region-a5b20915.png)
+!(https://www.nomadproject.io/assets/images/nomad-architecture-global-a8f14b78.png)
+
 Further reading
 
 * [What makes a cluster a cluster ? by CoreOS](https://coreos.com/blog/cluster-osi-model/)
