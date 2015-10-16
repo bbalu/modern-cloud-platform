@@ -33,8 +33,8 @@ Nomad Scheduler and Otto Application Delivery Tool
 
 Nomad internals
 
-!(https://www.nomadproject.io/assets/images/nomad-architecture-region-a5b20915.png)
-!(https://www.nomadproject.io/assets/images/nomad-architecture-global-a8f14b78.png)
+![](https://www.nomadproject.io/assets/images/nomad-architecture-region-a5b20915.png)
+![](https://www.nomadproject.io/assets/images/nomad-architecture-global-a8f14b78.png)
 
 Further reading
 
