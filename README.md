@@ -35,6 +35,8 @@ Nomad internals
 
 ![](https://www.nomadproject.io/assets/images/nomad-architecture-region-a5b20915.png)
 ![](https://www.nomadproject.io/assets/images/nomad-architecture-global-a8f14b78.png)
+![](https://www.nomadproject.io/assets/images/nomad-evaluation-flow-7629d361.png)
+
 
 Further reading
 
