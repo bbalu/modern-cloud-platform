@@ -37,6 +37,7 @@ Nomad internals
 ![](https://www.nomadproject.io/assets/images/nomad-architecture-global-a8f14b78.png)
 ![](https://www.nomadproject.io/assets/images/nomad-evaluation-flow-7629d361.png)
 
+[understanding 12 factor methodology from its author](https://devcenter.heroku.com/articles/architecting-apps)
 
 Further reading
 
